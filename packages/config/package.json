@@ -1,0 +1,11 @@
+{
+  "name": "@ongalento/config",
+  "version": "0.1.0",
+  "private": true,
+  "main": "eslint.base.cjs",
+  "files": [
+    "eslint.base.cjs",
+    "prettier.base.cjs",
+    "tsconfig.base.json"
+  ]
+}
